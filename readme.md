@@ -1,4 +1,4 @@
-#GUI USING TKINTER
+# GUI USING TKINTER
 
 >Just a quick intro about this repository/project
 >
