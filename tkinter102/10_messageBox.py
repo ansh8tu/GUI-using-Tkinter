@@ -5,6 +5,7 @@ from tkinter import messagebox
 root=Tk()
 root.title('System Logs')
 root.iconbitmap('allImagesUsed/warning.ico')
+root.geometry("300x200")
 
 message = '''A critical error has occured and the process must be terminated
 
